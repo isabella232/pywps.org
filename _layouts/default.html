@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>{{ site.name }}</title>
+    {% if page.description %}
+    <meta name="description" content="{{ site.name }} - {{ page.description }}">
+    {% else %}
+    <meta name="description" content="{{ site.name }} - {{ page.title }}">
+    {% endif %}
+    {% if page.keywords %}
+    <meta name="keywords" content="{{ site.name }}, {{ page.keywords }}">
+    {% else %}
+    <meta name="keywords" content="{{ site.name }}, {{ site.keywords }}">
+    {% endif %}
+    <meta name="author" content="PyWPS Development Team, represented by Jachym Cepicky">
+    <link rel="stylesheet" href="{{ site.baseurl }}stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}stylesheets/pygment_trac.css">
+    <meta name="viewport" content="width=device-width">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    {% feed_meta %}
+    <!-- Hosted on GitHub Pages - Theme by orderedlist (https://github.com/orderedlist -->
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}images/pywps.png"/></a>
+<!--        <p>(Python Web Processing Service) is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python.</p>-->
+<!--
+        <ul>
+          <li><a href="https://github.com/geopython/pywps/archive/pywps-3.2.2.zip">Download <strong>ZIP File</strong></a></li>
+          <li><a href="https://github.com/geopython/pywps/archive/pywps-3.2.2.tar.gz">Download <strong>TAR Ball</strong></a></li>
+          <li><a href="https://github.com/geopython/pywps">Fork On <strong>GitHub</strong></a></li>
+        </ul>
+-->
+        <ul style="list-style-type: none;">
+          <li><a href="{{ site.baseurl }}docs">Docs</a></li>
+          <li><a href="{{ site.baseurl }}download">Download</a></li>
+          <li><a href="{{ site.baseurl }}community">Community</a></li>
+          <li><a href="{{ site.baseurl }}gallery">Gallery</a></li>
+          <li><a href="{{ site.baseurl }}license">License</a></li>
+          <li><a href="{{ site.baseurl }}history">History</a></li>
+          <li><a href="{{ site.baseurl }}news">News</a></li>
+          <li><a href="{{ site.baseurl }}faq">FAQ</a></li>
+          <li><a href="{{ site.baseurl }}contributors">Contributors</a></li>
+        </ul>
+        <img src="http://svn.osgeo.org/osgeo/marketing/logo/png8/150/OSGeo_incubation.png"/>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+      <footer>
+        <p><small>Copyright (C) 2014-2016 PyWPS Development Team, represented by Jachym Cepicky</small>. <a rel="license" title="This work is licensed under a Creative Commons Attribution 4.0 International License" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a></p>
+      </footer>
+    </div>
+    <script src="{{ site.baseurl }}javascripts/scale.fix.js"></script>
+  </body>
+</html>

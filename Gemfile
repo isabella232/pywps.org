@@ -1,0 +1,5 @@
+gem 'jekyll'
+gem 'link-checker'
+gem 'jekyll-mentions'
+gem 'jekyll-sitemap'
+gem 'github-pages'

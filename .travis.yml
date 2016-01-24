@@ -1,0 +1,19 @@
+language: ruby
+
+install:
+  - gem install bundler
+  - bundle install
+
+script:
+  - jekyll build
+  - check-links _site
+
+branches:
+  only:
+    - gh-pages
+
+notifications:
+  irc:
+    channels:
+      - "irc.freenode.org#geopython"
+    use_notice: true
