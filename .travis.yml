@@ -1,9 +1,8 @@
 language: ruby
 
 install:
-  - gem install bundler
-  - bundle install
-
+  - gem install jekyll link-checker jekyll-mentions jekyll-sitemap jekyll github-pages
+  
 script:
   - jekyll build
   - check-links _site
