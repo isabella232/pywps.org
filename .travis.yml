@@ -1,11 +1,14 @@
 language: ruby
 
+rvm:
+  - 2.1
+
 install:
   - gem install jekyll link-checker jekyll-mentions jekyll-sitemap jekyll github-pages
   
 script:
   - jekyll build
-  - check-links _site
+#  - check-links _site
 
 branches:
   only:

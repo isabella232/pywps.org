@@ -1,7 +1,7 @@
 ---
 layout: default
 title: New course material added
-descriptionNew course material added
+description: New course material added
 keywords: PyWPS, course material, training, tutorial
 ---
 
