@@ -5,7 +5,7 @@ description: project blog and news
 keywords: news, blog, development, announcements
 ---
 
-# Archive [![RSS]({{site.baseurl}}/img/rss.png)]({{site.baseurl}}/feed.xml)
+# Archive [![RSS]({{site.baseurl}}/images/rss.png)]({{site.baseurl}}/feed.xml)
 
 <ul>
   {% for post in site.posts %}

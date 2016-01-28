@@ -23,6 +23,9 @@ Current Developers
   - Main developer of PyWPS-4, REST interface
   - PyWPS 4.x
 
+- Tom Kralidis (@tomkralidis)
+  - Web pages, OSGeo incubation
+
 - You
   - Did we forget you?  Tell us!
 
