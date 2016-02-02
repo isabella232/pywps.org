@@ -9,5 +9,4 @@ keywords: PyWPS, New logo
 
 ![PyWPS](../../../images/pywps.png)
 
-PyWPS project has new logo - Fast, Small, Simple yeat capable to carry big loads
-and bring you far - that is PyWPS.
+The PyWPS project has a new logo - Fast, Small, Simple, yeat capable of carrying big loads and bringing you far - that is PyWPS.

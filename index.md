@@ -1,22 +1,20 @@
 ---
 layout: default
 title: PyWPS
-description: (Python Web Processing Service) is an implementation of the Web processing Service standard from Open Geospatial Consortium. PyWPS is written in Python.
+description: (Python Web Processing Service) is an implementation of the Web processing Service standard issued by the Open Geospatial Consortium, written in the Python language.
 keywords: PyWPS, WPS, OGC, processing
 ---
 
 # Welcome to PyWPS
 
 PyWPS (Python Web Processing Service) is an implementation of the [Web
-processing Service standard](http://opengeospatial.org/standards/wps) from
-[Open Geospatial Consortium](http://opengeospatial.org). PyWPS is written in
-[Python](http://python.org).
+processing Service standard](http://opengeospatial.org/standards/wps)  issued by the
+[Open Geospatial Consortium](http://opengeospatial.org), written in
+the [Python](http://python.org) language.
 
-The project was initially started by [Jachym Cepicky](http://les-ejk.cz) as
-part of his project 'Connecting of GRASS GIS with UMN MapServer' supported by
-the [German Foundation for Environment](http://dbu.de/).  He began to work on
-this project from April 2006 to September 2006, while on scholarship by
-[GDF-Hannover](http://gdf-hannover.de/).
+PyWPS was started by [Jachym Cepicky](http://les-ejk.cz) as
+part of his project 'Connecting of GRASS GIS with UMN MapServer', supported by
+the [German Foundation for Environment](http://dbu.de/).  He began to work on this project with a scholarship by [GDF-Hannover](http://gdf-hannover.de) that went from April to September of 2006.
 
 PyWPS enables integration, publishing and execution of Python processes via the WPS standard.
 

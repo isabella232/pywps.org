@@ -16,7 +16,7 @@ Current Developers
   - PyWPS 1.x, 2.x, 3.x, 4.x
 
 - Luís de Sousa (@ldesousa)
-  - Developer and coordinator PyWPS-4 development
+  - Developer and coordinator of PyWPS-4 development
   - PyWPS 4.x
 
 - Calin Ciociu (@Noctalin)
