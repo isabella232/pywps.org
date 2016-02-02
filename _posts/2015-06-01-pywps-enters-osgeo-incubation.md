@@ -7,4 +7,4 @@ keywords: PyWPS, OSGeo, incubation
 
 # PyWPS Enters OSGeo incubation
 
-PyWPS enters Incubation Process to become OSGeo Project
+PyWPS enters the Incubation Process to become OSGeo Project.

@@ -36,11 +36,11 @@ PyWPS 4 will support OGC:WPS 2.0.0 and contains partial features in support of O
 
 PyWPS-4 is a complete rewrite in support of the OGC WPS standard.  It has a completely different codebase compared to previous (3.x) versions.
 
-PyWPS-4 supports both Python 2.x and Python 3.x versions.  It uses Flask, lxml and other modern libraries for web application development.  The processes are not backwards compatible, but should be easy to port the code (the philosophy remains the same).
+PyWPS-4 supports both Python 2.x and Python 3.x versions.  It uses Flask, lxml and other modern libraries for web application development.  The processes are not backwards compatible, but the code should be easy to port (the philosophy remains the same).
 
 ## Which Version of PyWPS Should I Use?
 
-As a general rule, use the latest stable version.  Older versions (1.0.0, 2.0.x) are not supported.
+As a general rule, use the latest stable version.  Older versions (1.0.0, 2.0.x) are no longer supported.
 
 Current stable means PyWPS 3.2 or the master branch in the PyWPS repository.
 
@@ -74,7 +74,7 @@ from pywps.processes import *
 PyWPS GCmd: g.region rast=mask2004@medlov res=5 1>&2
 ```
 
-- See the logfile, which you have set in the configuration file, in the `[server]` section
+- See the log file, which you have set in the configuration file, in the `[server]` section
 
 ## How do I Run Command Line Commands?
 

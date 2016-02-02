@@ -7,4 +7,4 @@ keywords: PyWPS, GitHub
 
 # PyWPS Pages Moved to github.io Infrastructure
 
-We are moving our infrastructure from <http://wald.intevation.org> server to GitHub - that includes our web page. 
+We are moving our infrastructure from the <http://wald.intevation.org> server to GitHub - that includes our web page. 
