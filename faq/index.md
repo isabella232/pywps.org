@@ -50,13 +50,13 @@ PyWPS-4 is under heavy development, the OGC WPS standard is not fully implemente
 
 - Run PyWPS from command line directly from command line:
 
-{% highlight bash %}
+```bash
 ./wps.py "&service=wps&version=0.4.0&request=execute&datainputs=input1,value1,input2,value2,..."
-{% endhighlight %}
+```
 
 - Inspect the web server's error log:
 
-{% highlight bash %}
+```bash
 tail -f /var/log/apache/error.log |sed -e "s/\[.*\] //g"
 PyWPS GCmd: r.rescale out=kat_dop_k_2004_1188372842 in=dop_k_2004_1188372842\
         to=0,255 to kat_dop_k_2004_1188372842[0,255]
@@ -72,7 +72,7 @@ PyWPS ERROR: Could not perform command:
         see http://www.python.org/peps/pep-0263.html for details
 from pywps.processes import *
 PyWPS GCmd: g.region rast=mask2004@medlov res=5 1>&2
-{% endhighlight %}
+```
 
 - See the logfile, which you have set in the configuration file, in the `[server]` section
 
@@ -80,26 +80,25 @@ PyWPS GCmd: g.region rast=mask2004@medlov res=5 1>&2
 
 Use the built-in `cmd()` method of the process:
 
-{% highlight python %}
+```python
 self.cmd(['ogr2ogr','output','input'])
-{% endhighlight %}
-
+```
 ## How do I Run GRASS Commands?
 
 The same way, like normal commands:
 
-{% highlight python %}
+```python
 self.cmd(['g.region','rast=raster'])
-{% endhighlight %}
+```
 
 ## Where Can I Find Documentation on Process Writing in General?
 
 Of course, there is Documentation, but it does not contain modules documentation yet. To get this, try:
 
-{% highlight bash %}
+```bash
 pydoc pywps/Process/Process.py
 pydoc pywps/Process/InputsAndOutputs.py
-{% endhighlight %}
+```
 
 ## How do I Cite PyWPS Software?
 
