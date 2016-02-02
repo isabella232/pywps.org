@@ -1,5 +1,4 @@
 name: PyWPS
-markdown: kramdown
 highlighter: pygments
 timezone: GMT
 baseurl: http://pywps.org
