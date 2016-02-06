@@ -24,3 +24,7 @@ keywords: PyWPS, download, access, .tar.gz, .zip, GitHub, packages, PyPI
 
 * [Git](https://github.com/geopython/pywps)
 
+## PyPI
+
+* https://pypi.python.org/pypi/pywps
+
