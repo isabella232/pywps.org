@@ -26,5 +26,5 @@ keywords: PyWPS, download, access, .tar.gz, .zip, GitHub, packages, PyPI
 
 ## PyPI
 
-* https://pypi.python.org/pypi/pywps
+* <https://pypi.python.org/pypi/pywps>
 
