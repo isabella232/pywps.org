@@ -9,7 +9,7 @@ keywords: PyWPS, download, access, .tar.gz, .zip, GitHub, packages, PyPI
 
 ## Stable version - 3.x
 
-* Current Stable Release (3.2.3) [.tar.gz](https://github.com/geopython/pywps/archive/pywps-3.2.3.tar.gz) [.zip](https://github.com/geopython/pywps/archive/pywps-3.2.3.zip) [PyPI](https://pypi.python.org/pypi/pywps/3.2.3)
+* Current Stable Release (3.2.3) [.tar.gz](https://github.com/geopython/pywps/archive/pywps-3.2.4.tar.gz) [.zip](https://github.com/geopython/pywps/archive/pywps-3.2.4.zip) [PyPI](https://pypi.python.org/pypi/pywps)
 
 * [All Releases](https://github.com/geopython/PyWPS/releases)
 
