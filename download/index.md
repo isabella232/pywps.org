@@ -15,7 +15,7 @@ keywords: PyWPS, download, access, .tar.gz, .zip, GitHub, packages, PyPI
 
 ## Development 4.0
 
-* [4.x branch Git](https://github.com/pywps/pywps-4)
+* [4.x branch Git](https://github.com/geopython/pywps)
 
 * [4.0.0-alpha Git](https://github.com/PyWPS/pywps-4/tree/PyWPS-4.0.0-alpha)
 * [4.0.0-alpha .zip](https://github.com/PyWPS/pywps-4/archive/PyWPS-4.0.0-alpha.zip)
