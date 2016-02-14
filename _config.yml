@@ -2,7 +2,6 @@ name: PyWPS
 highlighter: rouge
 timezone: GMT
 baseurl: http://pywps.org
-#baseurl: ''
 description: PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python.
 keywords: PyWPS, WPS, OGC, processing
 exclude: [README.md, setenv-ruby-gem, LICENSE, CNAME, pywps.org ]
