@@ -62,5 +62,5 @@ student was accepted.  PyWPS-4 also got a new REST interface.
 
 ## 2016-02
 
-PyWPS-4 branch was merged to official PyWPS repository as it's `master` branch.
-PyWPS moved to http://pywps.org domain, finally!
+PyWPS-4 branch was merged to official PyWPS repository as its `master` branch.
+PyWPS moved to <http://pywps.org> domain, finally!

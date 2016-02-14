@@ -7,7 +7,7 @@ keywords: web page
 
 # New PyWPS project web page
 
-We are please do announce, that PyWPS project finally can be found at the
+We are please to announce that PyWPS project finally can be found at the
 <http://pywps.org> domain. 
 
 Thanks to Tom Kralidis, we also now have new web pages, which are using Jekyll
