@@ -14,7 +14,8 @@ discuss improvements / issues, and ask questions.  To subscribe, visit
 <http://lists.osgeo.org/mailman/listinfo/pywps-dev>.
 
 Mailing list archives are available at
-<http://lists.osgeo.org/pipermail/pywps-dev>.
+<http://lists.osgeo.org/pipermail/pywps-dev>.  The mailing list is also
+available/searchable via the OSGeo [Nabble](http://osgeo-org.1560.x6.nabble.com/PyWPS-f5250613.html) forum.
 
 ## GitHub (Wiki, Issues, Code)
 
