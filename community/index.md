@@ -17,6 +17,15 @@ Mailing list archives are available at
 <http://lists.osgeo.org/pipermail/pywps-dev>.  The mailing list is also
 available/searchable via the OSGeo [Nabble](http://osgeo-org.1560.x6.nabble.com/PyWPS-f5250613.html) forum.
 
+## Google+
+
+PyWPS exists as a [Google+](https://plus.google.com/u/0/communities/103965491493827721776) community. Join us there for news, discussion, and more.
+
+## IRC
+
+Most of the developers are available via IRC channels `#grass` and `#geopython`
+on [Freenode](irc://irc.freenode.net).
+
 ## GitHub (Wiki, Issues, Code)
 
 The PyWPS [wiki](https://github.com/geopython/pywps/wiki) provides an area for
@@ -34,11 +43,6 @@ other mechanisms are welcome as well.
 
 All PyWPS [source code](https://github.com/geopython/pywps) is managed on
 GitHub, which includes the latest (master) and other supported branches.
-
-## IRC
-
-Most of the developers are available via IRC channels `#grass` and `#geopython`
-on [Freenode](irc://irc.freenode.net).
 
 ## Professional support
 
