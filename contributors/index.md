@@ -14,10 +14,12 @@ Current Developers
 - Jachym Cepicky (@jachym)
   - Initial author, core developer, coordinator of development
   - PyWPS 1.x, 2.x, 3.x, 4.x
+  - PSC member
 
 - Luís de Sousa (@ldesousa)
   - Developer and coordinator of PyWPS-4 development
   - PyWPS 4.x
+  - PSC member
 
 - Calin Ciociu (@Noctalin)
   - Main developer of PyWPS-4, REST interface
@@ -25,6 +27,17 @@ Current Developers
 
 - Tom Kralidis (@tomkralidis)
   - Web pages, OSGeo incubation
+  - PSC member
+
+- Jonas Eberle (@jonas-eberle)
+  - PyWPS 3.x
+  - PSC member
+
+- Jorge de Jesus (@jorgejesus)
+  - Core developer
+  - PyWPS 1.x, 2.x, 3.x
+  - PSC member
+
 
 - You
   - Did we forget you?  Tell us!
@@ -44,10 +57,6 @@ Past Developers
   - PyWPS 1.x, 2.x, 3.x
 
 - [Panagiotis Skintzos](p at pskintzos net) ([Homepage](http://pskintzos.net))
-  - Core developer
-  - PyWPS 1.x, 2.x, 3.x
-
-- [Jorge de Jesus](jmdj at pml.ac uk) ([Homepage](http://rsg.pml.ac.uk))
   - Core developer
   - PyWPS 1.x, 2.x, 3.x
 
