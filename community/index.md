@@ -21,7 +21,7 @@ available/searchable via the OSGeo [Nabble](http://osgeo-org.1560.x6.nabble.com/
 
 PyWPS exists as a [Google+](https://plus.google.com/u/0/communities/103965491493827721776) community. Join us there for news, discussion, and more.
 
-## Twiter
+## Twitter
 
 PyWPS has [Twitter account](https://twitter.com/pywps). You can also use
 [#pywps hashtag](https://twitter.com/hashtag/pywps) for tweets associated with
