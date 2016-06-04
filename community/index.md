@@ -58,3 +58,5 @@ we will ad your name here:
 
 | [![OpenGeoLabs.cz](../images/opengeolabs.png)](http://opengeolabs.cz) | [OpenGeoLabs](http://opengeolabs.cz) is private company (limited company), registered in Czech republic. We are focused on workshops and development around open source software for geospatial (FOSS4G), especially GRASS GIS, PyWPS, web mapping and generic GeoPython topics. \| [Website](http://opengeolabs.cz) \| [Email](info at opengeolabs dot cz) |
 | **Your logo** | *detailed info of your company or yourself* |
+
+PyWPS service providers (core development, support, training) can also be found on the [OSGeo Service Provider Directory](http://www.osgeo.org/search_profile?SET=1&MUL_TECH[]=00113).
