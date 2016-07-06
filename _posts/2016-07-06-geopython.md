@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Launching pywps.org
+title: PyWPS at GeoPython conference
 description: PyWPS at GeoPython conference
 keywords: conference
 ---
