@@ -1,9 +1,20 @@
-
 [![Build Status](https://travis-ci.org/geopython/pywps.org.png)](https://travis-ci.org/geopython/pywps.org)
 
 # pywps.org
 
 This is the setup for http://pywps.org
+
+## Prerequisites
+
+The tools used to compile this website relly on Ruby version 2.0 or greater.
+Make sure you have it installed before starting. On Ubuntu you can install the
+necessary Rauby packages in the following way:
+
+```bash
+sudo apt-add-repository ppa:brightbox/ruby-ng
+sudo apt-get update
+sudo apt-get install ruby2.2 ruby2.2-dev
+```
 
 ## Setting up website environment locally
 
@@ -16,7 +27,7 @@ git clone git@github.com:geopython/pywps.org.git && cd pywps.org
 # set Ruby environment variables
 . setenv-ruby-gem
 # install Jekyll
-gem install jekyll link-checker jekyll-mentions jekyll-sitemap github-pages
+gem install ffi jekyll link-checker jekyll-mentions jekyll-sitemap github-pages
 ```
 
 ## Workflow
@@ -24,7 +35,7 @@ gem install jekyll link-checker jekyll-mentions jekyll-sitemap github-pages
 ```bash
 # edit / verify content
 jekyll build
-jekyll serve  # default port is 4000, set explicitly with -P 
+jekyll serve  # default port is 4000, set explicitly with -P
 # commit and push
 git commit -m 'update website'
 git push origin gh-pages
