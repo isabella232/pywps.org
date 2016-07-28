@@ -9,7 +9,7 @@ keywords: PyWPS, WPS, OGC, processing, science, citation
 
 ## Citing PyWPS
 
-If you wish to city PyWPS in your work please use this recent article:
+If you wish to cite PyWPS in your work please use this recent article:
 
 - Čepický, J. and de Sousa, L. M. (2016). [New implementation of OGC Web Processing 
 Service in Python programming language. PyWPS-4 and issues we are facing with 
