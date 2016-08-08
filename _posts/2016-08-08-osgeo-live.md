@@ -15,10 +15,10 @@ You can see the live docs at:
 
 <dl>
     <dt>Overview</dt>
-    <dd>http://live.osgeo.org/en/overview/pywps_overview.html</dd>
+    <dd><a href="http://live.osgeo.org/en/overview/pywps_overview.html">http://live.osgeo.org/en/overview/pywps_overview.html</a></dd>
 
     <dt>Quickstart</dt>
-    <dd>https://live.osgeo.org/en/quickstart/pywps_quickstart.html</dd>
+    <dd><a href="https://live.osgeo.org/en/quickstart/pywps_quickstart.html">https://live.osgeo.org/en/quickstart/pywps_quickstart.html</a></dd>
 </dl>
 
 Currently, there us PyWPS-3 version (stable) available at the DVD.
