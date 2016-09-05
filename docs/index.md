@@ -17,6 +17,6 @@ keywords: PyWPS, documentation
 
 ## PyWPS 4.x - in development
 
-* [PyWPS](http://geopython.github.io/pywps/docs/_build/html/)
+* [PyWPS](http://pywps.readthedocs.io)
 
-* [PyWPS-demo](http://geopython.github.io/pywps-demo/docs/_build/html/)
+* [PyWPS-demo](http://pywps-demo.readthedocs.io)
