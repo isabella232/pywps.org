@@ -1,6 +1,6 @@
 ---
 layout: default
-title: PyWPS
+title: Home
 description: PyWPS is an implementation of the Web Processing Service standard from the Open Geospatial Consortium. PyWPS is written in Python.
 keywords: PyWPS, WPS, OGC, processing
 ---
