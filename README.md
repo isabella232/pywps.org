@@ -34,8 +34,9 @@ gem install ffi jekyll link-checker jekyll-mentions jekyll-sitemap github-pages
 
 ```bash
 # edit / verify content
+
 jekyll build
-jekyll serve  # default port is 4000, set explicitly with -P
+jekyll serve  # default port is 4000, set explicitly with -P.  On dev use -b /pywps.org to set proper local url
 # commit and push
 git commit -m 'update website'
 git push origin gh-pages
