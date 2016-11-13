@@ -24,7 +24,7 @@ sample of articles reporting on research where PyWPS had a role.
 
 ### 2016 
 
-- Eberle, Jonas, *et al.* (2016). "Multi-Source Data Integration and Analysis for Land Monitoring in Siberia." Novel Methods for Monitoring and Managing Land and Water Resources in Siberia. Springer International Publishing,  471-487.
+- Eberle, Jonas, *et al.* (2016). "Multi-Source Data Integration and Analysis for Land Monitoring in Siberia." *Novel Methods for Monitoring and Managing Land and Water Resources in Siberia*. Springer International Publishing,  471-487.
 
 - Erlich,Marc, Christophe Coulet, and Arnaud De Groof (2016). "Towards improved management of coastal submersion crises–CRISMA-WAVE solution as an example of CRISMA Framework application." *E3S Web of Conferences.* Vol. 3. EDP Sciences.
 
@@ -34,7 +34,7 @@ sample of articles reporting on research where PyWPS had a role.
 
 - Lacroix P., Guigoz Y., Rouholahnejad E., Ray N., Giuliani G. (2016). "SCOPED-W: Scalable Online Platform for extracting Environmental Data and Water-related model outputs." *Transactions in GIS* [http://onlinelibrary.wiley.com/doi/10.1111/tgis.12227/full](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12227/full)
 
-- Lee, Seongkyu (2016). "Development of OGC WPS-based Climate Data Visualization Service Using PyWPS and Matplotlib." In Proceedings of Free and Open Source Software for Geospatial (FOSS4G) BONN 2016, WCCB, BONN, Germany. [{{site.url}}{{ site.baseurl }}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf]({{site.url}}{{ site.baseurl}}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf)
+- Lee, Seongkyu (2016). "Development of OGC WPS-based Climate Data Visualization Service Using PyWPS and Matplotlib." In *Proceedings of Free and Open Source Software for Geospatial (FOSS4G) BONN 2016*, WCCB, BONN, Germany. [{{site.url}}{{ site.baseurl }}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf]({{site.url}}{{ site.baseurl}}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf)
 
 ### 2015
 
@@ -70,9 +70,9 @@ sample of articles reporting on research where PyWPS had a role.
 
 - Lindquist, E. J., *et al.* (2012). "Improving Access, Utility and Analyses of FAO Forestry Statistics via Geographic Web-based Services." *IEEE Earthzine* 5.2  378146.
 
-- Vitolo, C., Buytaert, W. O. U. T. E. R., & Reusser, D. (2012). "Hydrological Models as Web Services: An Implementation Using OGC Standards." In  Proceedings of the 10th International Conference on Hydroinformatics, HIC,  Hamburg, Germany.
+- Vitolo, C., Buytaert, W. O. U. T. E. R., & Reusser, D. (2012). "Hydrological Models as Web Services: An Implementation Using OGC Standards." In *Proceedings of the 10th International Conference on Hydroinformatics*, HIC,  Hamburg, Germany.
 
-- Vitolo, Claudia, *et al.* (2012). "Cloud-enabled Web Applications for Environmental Modelling." AGU Fall Meeting Abstracts. Vol. 1.
+- Vitolo, Claudia, *et al.* (2012). "Cloud-enabled Web Applications for Environmental Modelling." *AGU Fall Meeting Abstracts*. Vol. 1.
 
 
 ### 2010-2007
