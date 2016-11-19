@@ -74,6 +74,10 @@ sample of articles reporting on research where PyWPS had a role.
 
 - Vitolo, Claudia, *et al.* (2012). "Cloud-enabled Web Applications for Environmental Modelling." *AGU Fall Meeting Abstracts*. Vol. 1.
 
+### 2011
+
+- Bielski, C. , Gentilini, S., Pappalardo M. (2011). "Post-Disaster Image Processing for Damage Analysis Using GENESI-DR, WPS and Grid Computing." *Remote Sensing* 3(6), 1234-1250; [doi:10.3390/rs3061234](http://dx.doi.org/10.3390/rs3061234)
+
 
 ### 2010-2007
 
