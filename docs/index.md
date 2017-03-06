@@ -9,7 +9,7 @@ keywords: PyWPS, documentation
 
 ## PyWPS 3.x - stable
 
-* [Official documentation](http://geopython.github.io/pywps/doc/build/html/) -
+* [Official documentation](http://pywps-3.readthedocs.io/) -
   use this for installation, configuration and process setup, as well as the linked
   API docs.
 * [Tutorial](http://jachym.github.io/pywps-tutorial/build/html/index.html) - we use this as
