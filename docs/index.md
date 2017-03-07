@@ -7,7 +7,13 @@ keywords: PyWPS, documentation
 
 # Documentation
 
-## PyWPS 3.x - stable
+## PyWPS 4.x - stable
+
+* [PyWPS](http://pywps.readthedocs.io)
+
+* [PyWPS-demo](http://pywps-demo.readthedocs.io)
+
+## PyWPS 3.x old-stable
 
 * [Official documentation](http://pywps-3.readthedocs.io/) -
   use this for installation, configuration and process setup, as well as the linked
@@ -15,8 +21,3 @@ keywords: PyWPS, documentation
 * [Tutorial](http://jachym.github.io/pywps-tutorial/build/html/index.html) - we use this as
   a fast introduction at workshops.
 
-## PyWPS 4.x - in development
-
-* [PyWPS](http://pywps.readthedocs.io)
-
-* [PyWPS-demo](http://pywps-demo.readthedocs.io)
