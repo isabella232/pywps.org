@@ -9,7 +9,7 @@ keywords: PyWPS, history, timeline, events
 
 PyWPS was initially started by [Jachym Cepicky](http://les-ejk.cz) as part of his project 'Connecting of GRASS GIS with UMN MapServer' supported by the [German Foundation for Environment](http://dbu.de).  He began to work on this project with a scholarship by [GDF-Hannover](http://gdf-hannover.de) that went from April to September of 2006.
 
-The first PyWPS site as a demo application was the [WPS Demo](http://www.bnhelp.cz/mapserv/wpsdemo/index.php) provided by [Help Service Remote Sensing](http://www.bnhelp.cz>).
+The first PyWPS site as a demo application was the [WPS Demo](http://www.bnhelp.cz/mapserv/wpsdemo/index.php) provided by [Help Service Remote Sensing](http://www.bnhelp.cz).
 
 The first presentation about PyWPS was held at the [FOSS4G 2006](http://foss4g2006.org) conference in Lausanne titled '[GRASS goes to web: PyWPS](http://www.foss4g2006.org/contributionDisplay.py?contribId=67&sessionId=48&confId=1)'.
 
