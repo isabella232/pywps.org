@@ -11,7 +11,7 @@ keywords: PyWPS, documentation
 
 * [PyWPS](http://pywps.readthedocs.io)
 
-* [PyWPS-demo](http://pywps-demo.readthedocs.io)
+* [PyWPS-Flask](http://pywps-demo.readthedocs.io)
 
 ## PyWPS 3.x old-stable
 
