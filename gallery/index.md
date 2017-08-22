@@ -9,6 +9,13 @@ keywords: PyWPS, gallery, examples, demos, demonstration, applications
 
 Some working examples of PyWPS in action.  Add yourself!
 
+## pointWPS
+
+* **Published:** 2017
+* **URL:** <http://pointclouds.nci.org.au/>
+* **Author:** Dr Adam Steer
+* **Hosted:** NCI - Australia's National Computational Infrastructure: <http://nci.org.au>
+
 ## PyWPS-4 used in OGC Soil Data IE Demonstration - Sydney, Australia - 03 December 2015
 
 * **Published:** 2015

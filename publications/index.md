@@ -23,6 +23,14 @@ Accademic publications with PyWPS
 * **Published:** 2015, FOSS4G-Europe, Como
 * **URL:** [PDF Poster](../pywps-4-poster.pdf)
 
+# Presentations
+
+## An	open,	standards	based	and	flexible	point	cloud	data	service
+
+* **Authors:**  **Adam	Steer**, Sean	Pringle, Pablo	Rozas-Larraondo, Joseph	Antony, Ben	Evans
+* **Conference:** [FOSS4G 2017](http://2017.foss4g.org)
+* **URL:** [PDF presentation](http://pointclouds.nci.org.au/talks/f4g_pointwps_adamsteer.pdf)
+
 ## Your Publication
 
 Did we forget you? Tell us!
