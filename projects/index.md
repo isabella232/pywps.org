@@ -20,7 +20,7 @@ Smart City Energy supports cities in the development of innovative strategies an
 World Meteorological Organization (WMO) data centre supporting the Global Atmosphere Watch (GAW) program operated by Environment and Climate Change Canada. ) 
 
 [http://www.opengeospatial.org/blog/2418](http://www.opengeospatial.org/blog/2418)
-[http://woudc.org/](http://woudc.org/)
+[https://woudc.org/](https://woudc.org/)
 
 
 ## NETMAR - Open Service Network for Marine Environmental Data
