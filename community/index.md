@@ -7,7 +7,7 @@ keywords: PyWPS, community, support, questions, irc
 
 # Code of Conduct
 
-In support of an inclusive and welcoming community, the PyWPS code of conduct can always be found at https://github.com/geopython/pywps/blob/develop/CODE_OF_CONDUCT.md.
+In support of an inclusive and welcoming community, the PyWPS code of conduct can always be found at [https://github.com/geopython/pywps/blob/develop/CODE_OF_CONDUCT.md](https://github.com/geopython/pywps/blob/develop/CODE_OF_CONDUCT.md).
 
 # Community Support
 
