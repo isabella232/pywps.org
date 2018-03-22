@@ -22,6 +22,18 @@ XLI-B7:927–930. doi:10.5194/isprs-archives-XLI-B7-927-2016
 PyWPS has been used in many research projects. The following list gathers a 
 sample of articles reporting on research where PyWPS had a role.
 
+### 2018
+
+- Hempelmann, N. *et al.* (2018). "Web processing service for climate impact and extreme weather event analyses. Flyingpigeon (Version 1.0)" *Computers & Geosciences*
+110:65-72
+
+
+### 2017
+
+
+- Landa, M. *et al.* (2017). "Building a complete free and open source GIS infrastructure for hydrological computing and data publication using GIS.LAB and GISQUICK plantforms"  *The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences*. Gottingen  Vol. XLII-4/W2, : 101-105. Gottingen: Copernicus GmbH.
+
+
 ### 2016 
 
 - Eberle, Jonas, *et al.* (2016). "Multi-Source Data Integration and Analysis for Land Monitoring in Siberia." *Novel Methods for Monitoring and Managing Land and Water Resources in Siberia*. Springer International Publishing,  471-487.
