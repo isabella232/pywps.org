@@ -13,7 +13,7 @@ submitted either for peer review or simply to convey new concepts, information,
 or (occasionally) engineering humor. The IETF adopts some of the proposals
 published as RFCs as Internet standards.
 
-An RFC describes a major change in the technological underpinnings of pycsw,
+An RFC describes a major change in the technological underpinnings of PyWPS,
 major additions to functionality, or changes in the direction of the project.
 
 * [RFC-1: Project Steering Committee Guidelines](rfc-1)
