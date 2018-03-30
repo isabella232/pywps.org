@@ -15,9 +15,10 @@ Members are (in alphabetical order):
 
 <!-- script src="https://embed.github.com/view/geojson/geopython/pywps.org/gh-pages/development/psc.geojson?width=400&height=300"> </script -->
 
-| Jachym Cepicky | @jachym       |
-| Jonas Eberle   | @jonas-eberle |
-| Jorge de Jesus | @jorgejesus   |
-| Tom Kralidis   | @tomkralidis  |
-| Luís de Sousa  | @ldesousa     |
+| Jachym Cepicky   | @jachym       |
+| Jonas Eberle     | @jonas-eberle |
+| Jorge de Jesus   | @jorgejesus   |
+| Tom Kralidis     | @tomkralidis  |
+| Carsten Ehbrecht | @cehbrecht    |
+| Luís de Sousa    | @ldesousa     |
 
