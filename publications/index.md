@@ -9,6 +9,12 @@ keywords: PyWPS, gallery, publications examples, demos, demonstration, applicati
 
 Accademic publications with PyWPS
 
+## Using PyWPS for Water Resources Quantification in Mountain Basins
+
+* **Author:** Susanna Grasso, Politecnico Torino
+* **Published:** 2018, GeoPython Conference
+* **URL:** [online-presentation](https://www.researchgate.net/publication/325019674_Using_PyWPS_for_Water_Resources_Quantification_in_Mountain_Basins)
+
 ## Development of OGC WPS-based Climate Data Visualization Service Using PyWPS and Matplolib
 
 [!Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.png](Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.png)
