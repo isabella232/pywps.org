@@ -9,6 +9,19 @@ keywords: PyWPS, gallery, examples, demos, demonstration, applications
 
 Some working examples of PyWPS in action.  Add yourself!
 
+## LycheePy
+
+* **Published:** 2018
+* **URL:** <https://github.com/gabrielbazan/lycheepy>
+* **Author:** Gabriel José Bazán
+* **Status:** *in development*
+
+LycheePy is a distributed processing server which allows the publication of
+pre-defined processing chains through a WPS interface, implemented with PyWPS.
+In addition, it provides direct integration with repositories (e.g. GeoServer,
+FTP servers, or you own integration), allowing the automatic publication of
+processing results.
+
 ## pointWPS
 
 * **Published:** 2017
