@@ -64,3 +64,7 @@ student was accepted.  PyWPS-4 also got a new REST interface.
 
 PyWPS-4 branch was merged to official PyWPS repository as its `master` branch.
 PyWPS moved to <http://pywps.org> domain, finally!
+
+## 2018-04
+
+PyWPS officially [graduates](/2018/05/30/incubation.html) as an OSGeo project.
