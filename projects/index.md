@@ -17,9 +17,9 @@ Smart City Energy supports cities in the development of innovative strategies an
 
 
 ## WMO WOUDC (World Ozone & Ultraviolet Radiation Data Centre)
-World Meteorological Organization (WMO) data centre supporting the Global Atmosphere Watch (GAW) program operated by Environment and Climate Change Canada. ) 
+World Meteorological Organization (WMO) data centre supporting the Global Atmosphere Watch (GAW) program operated by Environment and Climate Change Canada.
 
-[http://www.opengeospatial.org/blog/2418](http://www.opengeospatial.org/blog/2418)
+[https://www.opengeospatial.org/blog/2418](https://www.opengeospatial.org/blog/2418)
 [https://woudc.org/](https://woudc.org/)
 
 
