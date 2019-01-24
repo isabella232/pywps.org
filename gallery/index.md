@@ -97,7 +97,7 @@ Provided by: [HS-RS](http://bnhelp.cz)
 - Uses GML v2.0
 - Integration with OpenLayers
 - Full source at <http://dev.bnhelp.cz/inspire>
-- [GDAL](http://www.gdal.org)
+- [GDAL](https://www.gdal.org)
 
 ![inspire.png](../images/inspire.png)
 

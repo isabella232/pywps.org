@@ -9,7 +9,7 @@ keywords: PyWPS, community, development, PSC
 
 In accordance with [RFC1](/development/rfcs/rfc-1.html),
 the authoritative and current PSC membership list is maintained at
-[http://pywps.org/development/psc.html](http://pywps.org/development/psc.html)
+[https://pywps.org/development/psc.html](https://pywps.org/development/psc.html)
 
 Members are (in alphabetical order):
 

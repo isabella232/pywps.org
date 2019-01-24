@@ -69,7 +69,7 @@ PyWPS ERROR: Could not perform command:
                 Non-ASCII character '\xc2' in file
                 /usr/home/bnhelp/pfwps/pywps/processes/pf_interpolate_grass.py
                 on line 51, but no encoding declared;
-        see http://www.python.org/peps/pep-0263.html for details
+        see https://www.python.org/peps/pep-0263.html for details
 from pywps.processes import *
 PyWPS GCmd: g.region rast=mask2004@medlov res=5 1>&2
 ```
@@ -103,7 +103,7 @@ pydoc pywps/Process/InputsAndOutputs.py
 ## How do I Cite PyWPS Software?
 
 - PyWPS Development Team, 2009. Python Web Processing Service (PyWPS)
-  - Software, Version XXXX. <http://pywps.org>
+  - Software, Version XXXX. <https://pywps.org>
 
 - Cepicky, J. (2007): PyWPS 2.0.0: The presence and the future.
   - Proceedings Geoinformatics FCE CTU 2007,Prague, Czech Republic, 19th Sept. 2007, Electronic document PDF: <https://ojs.cvut.cz/ojs/index.php/gi/article/download/gi.2.8/2583>

@@ -2,7 +2,7 @@
 
 # pywps.org
 
-This is the setup for http://pywps.org
+This is the setup for https://pywps.org
 
 ## Prerequisites
 
@@ -74,6 +74,6 @@ make drafts
 
 ## Minimal Theme
 
-pywps.org uses the [Minimal Theme](http://orderedlist.github.com/minimal) from [GitHub Pages](http://pages.github.com/).
+pywps.org uses the [Minimal Theme](https://orderedlist.com/minimal) from [GitHub Pages](https://pages.github.com/).
 
 Syntax highlighting is provided on GitHub Pages by [Pygments](http://pygments.org).
