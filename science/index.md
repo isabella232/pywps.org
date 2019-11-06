@@ -56,13 +56,13 @@ sample of articles reporting on research where PyWPS had a role.
 
 - Erlich,Marc, Christophe Coulet, and Arnaud De Groof (2016). "Towards improved management of coastal submersion crises–CRISMA-WAVE solution as an example of CRISMA Framework application." *E3S Web of Conferences.* Vol. 3. EDP Sciences.
 
-- Giuliani G., Lacroix P., Guigoz Y., Roncella R., Bigagli L., Santoro M., Mazzetti P., Nativi S., Ray N., Lehmann A. (2016). "Bringing GEOSS services into practice: a capacity building resource on spatial data infrastructures (SDI)." *Transactions in GIS* [http://onlinelibrary.wiley.com/doi/10.1111/tgis.12209/full](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12209/full)
+- Giuliani G., Lacroix P., Guigoz Y., Roncella R., Bigagli L., Santoro M., Mazzetti P., Nativi S., Ray N., Lehmann A. (2016). "[Bringing GEOSS services into practice: a capacity building resource on spatial data infrastructures (SDI).](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12209/full)" *Transactions in GIS*.
 
 - Kadygrov, Nikolay, *et al.* (2016). "Implementation of Web Processing Services (WPS) over IPSL Earth System Grid Federation (ESGF) node." *EGU General Assembly Conference Abstracts.* Vol. 18.
 
-- Lacroix P., Guigoz Y., Rouholahnejad E., Ray N., Giuliani G. (2016). "SCOPED-W: Scalable Online Platform for extracting Environmental Data and Water-related model outputs." *Transactions in GIS* [http://onlinelibrary.wiley.com/doi/10.1111/tgis.12227/full](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12227/full)
+- Lacroix P., Guigoz Y., Rouholahnejad E., Ray N., Giuliani G. (2016). "[SCOPED-W: Scalable Online Platform for extracting Environmental Data and Water-related model outputs.](http://onlinelibrary.wiley.com/doi/10.1111/tgis.12227/full)" *Transactions in GIS*.
 
-- Lee, Seongkyu (2016). "Development of OGC WPS-based Climate Data Visualization Service Using PyWPS and Matplotlib." In *Proceedings of Free and Open Source Software for Geospatial (FOSS4G) BONN 2016*, WCCB, BONN, Germany. [{{site.url}}{{ site.baseurl }}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf]({{site.url}}{{ site.baseurl}}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf)
+- Lee, Seongkyu (2016). "[Development of OGC WPS-based Climate Data Visualization Service Using PyWPS and Matplotlib.]({{site.url}}{{ site.baseurl}}/science/pub/Seongkyu_Lee-FOSS4G_BONN_2016_Poster_v1_1c.pdf)" In *Proceedings of Free and Open Source Software for Geospatial (FOSS4G) BONN 2016*, WCCB, BONN, Germany.
 
 ### 2015
 
@@ -82,7 +82,7 @@ sample of articles reporting on research where PyWPS had a role.
 
 - Dubois, Grégoire, *et al.* (2013). "eHabitat, a multi-purpose Web Processing Service for ecological modeling." *Environmental Modelling & Software* 41:123-133
 
-- Giuliani G., Rahman K., Ray N., Lehmann A. (2013). "OWS4SWAT: Publishing and Sharing SWAT Outputs with OGC standards." *International Journal of Advanced Computer Science and Applications*  EnviroGRIDS Special Issue on "Building a Regional Observation System in the Black Sea Catchment":90-98 [http://thesai.org/Publications/ViewPaper?Volume=3&Issue=3&Code=SpecialIssue&SerialNo=11](http://thesai.org/Publications/ViewPaper?Volume=3&Issue=3&Code=SpecialIssue&SerialNo=11)
+- Giuliani G., Rahman K., Ray N., Lehmann A. (2013). "[OWS4SWAT: Publishing and Sharing SWAT Outputs with OGC standards.](http://thesai.org/Publications/ViewPaper?Volume=3&Issue=3&Code=SpecialIssue&SerialNo=11)" *International Journal of Advanced Computer Science and Applications*  EnviroGRIDS Special Issue on "Building a Regional Observation System in the Black Sea Catchment":90-98.
 
 - Mihon, D., Colceriu, V., Bacu, V., Rodila, D., Gorgan, D., Allenbach, K., & Giuliani, G. (2013). "OGC compliant services for remote sensing processing over the grid infrastructure." *International Journal of Advanced Computer Science and Applications*, 3(3), 32-40.
 
@@ -92,7 +92,7 @@ sample of articles reporting on research where PyWPS had a role.
 
 - de Jesus, Jorge, *et al.* (2012) "WPS orchestration using the Taverna workbench: The eScience approach." *Computers & Geosciences* 47 : 75-86.
 
-- Giuliani G., Nativi S., Lehmann A., Ray N. (2012). "WPS mediation: an approach to process geospatial data on different computing backends." *Computers and Geosciences* 47:20-33 [http://www.sciencedirect.com/science/article/pii/S0098300411003402](http://www.sciencedirect.com/science/article/pii/S0098300411003402)
+- Giuliani G., Nativi S., Lehmann A., Ray N. (2012). "[WPS mediation: an approach to process geospatial data on different computing backends.](http://www.sciencedirect.com/science/article/pii/S0098300411003402)" *Computers and Geosciences* 47:20-33.
 
 - Goodall, J. L., *et al.* (2012). "Application of the Open Geospatial Consortium (OGC) Web Processing Service (WPS) Standard for Exposing Water Models as Web Services."  *AGU Fall Meeting Abstracts.* Vol. 1.
 
