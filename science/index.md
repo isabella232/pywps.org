@@ -11,18 +11,34 @@ keywords: PyWPS, WPS, OGC, processing, science, citation
 
 If you wish to cite PyWPS in your work please use this recent article:
 
+- de Sousa, L. M., de Jesus, J. M., Čepicky, J., Kralidis, A. T., Huard, D., Ehbrecht, C., Barreto, S. & Eberle, J. (2019). [PyWPS: overview, new features in version 4 and existing implementations](https://link.springer.com/article/10.1186/s40965-019-0072-0). *Open Geospatial Data, Software and Standards*, 4(1), 13. doi:https://doi.org/10.1186/s40965-019-0072-0
+
+Previous reference publications on PyWPS:
+
 - Čepický, J. and de Sousa, L. M. (2016). ["New implementation of OGC Web Processing 
 Service in Python programming language. PyWPS-4 and issues we are facing with 
 processing of large raster data using OGC WPS"](http://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLI-B7/927/2016/). 
 *ISPRS - International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*,
 XLI-B7:927–930. doi:10.5194/isprs-archives-XLI-B7-927-2016
 
+- Cepicky, J., & Becchi, L. (2007). "Geospatial processing via Internet on remote servers-PyWPS." *OSGeo Journal*, 1(5), 11-17.
+
 ## PyWPS in Scientific production
 
 PyWPS has been used in many research projects. The following list gathers a 
 sample of articles reporting on research where PyWPS had a role.
 
+### 2019
+
+- Rapiński, J., Bednarczyk, M., & Zinkiewicz, D. (2019). JupyTEP IDE as an Online Tool for Earth Observation Data Processing. *Remote Sensing*, 11(17).
+
+- van Hoek, M., Zhou, J., Jia, L., Lu, J., Zheng, C., Hu, G., & Menenti, M. (2019). A prototype web-based analysis platform for drought monitoring and early warning. *International Journal of Digital Earth*, 1-15.
+
 ### 2018
+
+- Hempelmann, N., Ehbrecht, C., Alvarez-Castro, C., Brockmann, P., Falk, W., Hoffmann, J., ... & Vautard, R. (2018). Web processing service for climate impact and extreme weather event analyses. Flyingpigeon (Version 1.0). *Computers & Geosciences*, 110, 65-72.
+
+- Herle, S., & Blankenbach, J. (2018). Enhancing the OGC WPS interface with GeoPipes support for real-time geoprocessing. *International Journal of Digital Earth*, 11(1), 48-63.
 
 - Hempelmann, N. *et al.* (2018). "Web processing service for climate impact and extreme weather event analyses. Flyingpigeon (Version 1.0)" *Computers & Geosciences*
 110:65-72
@@ -102,5 +118,3 @@ sample of articles reporting on research where PyWPS had a role.
 - Ninsawat, S., Raghavan, V., Masumoto, S., & Chemin, Y. (2007). "WebProcessing Service for Spatial Analysis using PyWPS and GRASS GIS." *International Journal of Geoinformatics*, 3(4), 19-25.
 
 - Bivand, R. (2007). "Using the R-GRASS interface." *OSGeo Journal*, 1, 36-38.
-
-- Cepicky, J., & Becchi, L. (2007). "Geospatial processing via Internet on remote servers-PyWPS." *OSGeo Journal*, 1(5), 11-17.
