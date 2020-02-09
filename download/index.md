@@ -9,11 +9,11 @@ keywords: PyWPS, download, access, .tar.gz, .zip, GitHub, packages, PyPI
 
 ## Stable 4.2
 
-* [4.2.2 Git](https://github.com/geopython/pywps/tree/4.2.2)
-* [4.2.2 .zip](https://github.com/geopython/pywps/archive/4.2.2.zip)
+* [4.2.4 Git](https://github.com/geopython/pywps/tree/4.2.4)
+* [4.2.4 .zip](https://github.com/geopython/pywps/archive/4.2.4.zip)
 
 
-## Old stable version - 3.x
+## Old stable - deprecated - version - 3.x
 
 * Current Stable Release (3.2.5) [.tar.gz](https://github.com/geopython/pywps/archive/pywps-3.2.5.tar.gz) [.zip](https://github.com/geopython/pywps/archive/pywps-3.2.5.zip) [PyPI](https://pypi.python.org/pypi/pywps)
 
