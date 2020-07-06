@@ -9,6 +9,16 @@ keywords: PyWPS, gallery, examples, demos, demonstration, applications
 
 Some working examples of PyWPS in action.  Add yourself!
 
+## talos-wps
+
+* **Published:** 2020
+* **URL:** <https://github.com/talos-gis/talos_wps>
+* **Author:** [talos-gis](https://github.com/talos-gis)
+* **Status:** in development
+
+Main Functionality: raster processing: clipping, dem coloring, viewshed
+GDAL based
+
 ## LycheePy
 
 * **Published:** 2018
